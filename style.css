@@ -51,7 +51,7 @@ body {
   }
 
   .text-area h1 span {
-    color: #0194d7; /* Highlight color */
+    color: #4D148C; /* Highlight color */
   }
 
   /* Tracking Form */
@@ -74,7 +74,7 @@ body {
   .input-group input {
     flex: 1;
     padding: 12px 16px;
-    border: 2px solid #0194d7;
+    border: 2px solid #4D148C;
     border-radius: 8px;
     font-size: 1rem;
     width: 100%;
@@ -82,7 +82,7 @@ body {
 
   .input-group button {
     padding: 12px 24px;
-    background: #0194d7;
+    background: #4D148C;
     color: white;
     border: none;
     border-radius: 8px;
@@ -171,7 +171,7 @@ body {
   .hamburger-btn .bar {
     width: 30px;
     height: 3px;
-    background: #0194d7; /* Purple */
+    background: #fff; /* Purple */
     transition: 0.3s;
   }
   
@@ -207,7 +207,7 @@ body {
     background: none;
     border: none;
     font-size: 40px;
-    color: #0194d7; /* Purple */
+    color: #4D148C; /* Purple */
     cursor: pointer;
   }
   
@@ -225,12 +225,12 @@ body {
   .hamburger-menu-content ul li a {
     text-decoration: none;
     font-size: 24px;
-    color: #0194d7; /* Purple */
+    color: #4D148C; /* Purple */
     transition: color 0.3s;
   }
   
   .hamburger-menu-content ul li a:hover {
-    color: #0194d7; /* Darker Purple */
+    color: #4D148C; /* Darker Purple */
   }
 
   #loadingOverlay {
