@@ -5,10 +5,10 @@
     <meta charset="utf-8">
     <meta charset="utf-8">
     <title>
-        Page Not Found | FedEx Shipping Portal - FedEx Cargo Shipment
+        Page Not Found | Fedex Shipping Portal - Fedex Cargo Shipment
     </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta content="FedEx Official Shipping Portal Website" name="description">
+    <meta content="Fedex Official Shipping Portal Website" name="description">
     <meta content="" name="author">
     
     <link rel="shortcut icon" href="data:image/png;base64,/img/identity/website_favicon.png">
@@ -55,7 +55,7 @@
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-dark text-center">
-                            Copyright © <script>document.write(new Date().getFullYear())</script> FedEx Shipping Portal. All rights reserved.
+                            Copyright © <script>document.write(new Date().getFullYear())</script> Fedex Shipping Portal. All rights reserved.
                         </div>
                     </div>
                 </div>
